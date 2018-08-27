@@ -5,7 +5,7 @@ ID
 
 year: The year in which the fatality occurred.
 
-#month: The month in which the fatality occurred.
+month: The month in which the fatality occurred.
 
 intent: The intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
 
