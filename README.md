@@ -1,8 +1,8 @@
 # analyse-us-guns-deaths
 his project is analyzing firearm deaths in the United States between 2012 and 2014. The data comes from FiveThirtyEight and are structured as follows:
 
-ID
-year: The year in which the fatality occurred.
+#ID
+#year: The year in which the fatality occurred.
 month: The month in which the fatality occurred.
 intent: The intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
 police: Whether a police officer was involved with the shooting. Either 0 (false) or 1 (true).
